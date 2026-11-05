@@ -25,13 +25,15 @@ The assistant can answer general questions, perform calculations, provide date a
 ## 📁 Project Structure
 
 AI-Personal-Assistant/
+│
 ├── main.py
 ├── calculator.py
 ├── dateTimeTool.py
 ├── weatherTool.py
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── venv/
 
 ## ⚙️ Installation
 

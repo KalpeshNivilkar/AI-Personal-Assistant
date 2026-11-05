@@ -32,8 +32,7 @@ AI-Personal-Assistant/
 ├── weatherTool.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-└── venv/
+└── .gitignore
 
 ## ⚙️ Installation
 

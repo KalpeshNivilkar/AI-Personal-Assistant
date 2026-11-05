@@ -24,8 +24,10 @@ The assistant can answer general questions, perform calculations, provide date a
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+```text
 AI-Personal-Assistant/
-│
 ├── main.py
 ├── calculator.py
 ├── dateTimeTool.py
@@ -33,6 +35,7 @@ AI-Personal-Assistant/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 ## ⚙️ Installation
 
